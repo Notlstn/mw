@@ -1,5 +1,8 @@
 <?php
 
+// Init post types
+require_once 'inc/post_types.php';
+
 // CORS handling
 require_once 'inc/cors.php';
 
